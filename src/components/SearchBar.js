@@ -1,3 +1,4 @@
+import './SearchBar.css';
 import React from "react";
 
 class SearchBar extends React.Component {
@@ -15,14 +16,15 @@ class SearchBar extends React.Component {
 
         render(){
         return (
-            <div className="search-bar ui segment">
-                <form onSubmit={this.onFormSubmit} className="ui form">
-                    <div className="field">
-                        <label>Video Search</label>
+            <div className="search-bar ui segment search-color" >
+                <form onSubmit={this.onFormSubmit} className="ui form " >
+                    <div className="field search-color">
+                        <label className='search-color'> <i class='large play icon'></i>    Video Search</label>
                         <input
                             type='text'
                             value={this.state.term}
                             onChange={this.onInputChnage}
+                            className='type-color'
                         />
                     </div>
                 </form>
