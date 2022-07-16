@@ -1,3 +1,12 @@
+# Description
+
+A fully operational video player for searching and playing videos from youtube using ReactJS, and integrated with the Google provided YouTube Data API.
+
+
+# Video link
+
+https://drive.google.com/drive/folders/1XwSgv_aRaeV-OoJNq1dEyNdwexMPQOMu
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
