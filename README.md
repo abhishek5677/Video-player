@@ -5,7 +5,7 @@ A fully operational video player for searching and playing videos from youtube u
 
 # Video link
 
-https://drive.google.com/drive/folders/1XwSgv_aRaeV-OoJNq1dEyNdwexMPQOMu
+https://drive.google.com/file/d/1CIWWytwh-cn4ZoE2HCAwGQEhqhkFJiBw/view?usp=sharing
 
 # Getting Started with Create React App
 
